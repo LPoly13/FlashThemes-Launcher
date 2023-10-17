@@ -1,2 +1,2 @@
-# GoWDPK Launcher
-allows you to use gowdpk on electron's browser.
+# FlashThemes Launcher
+A Launcher but this time it has FlashThemes
